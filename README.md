@@ -1,2 +1,2 @@
 # AI-ML
-Doppler Ultrasound detectiong with NCNN
+Doppler Ultrasound detection with NCNN
